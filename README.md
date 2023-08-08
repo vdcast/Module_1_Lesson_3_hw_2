@@ -3,7 +3,7 @@
 
 Loops, working with arrays.
 
-**Technical task:**
+**Task:**
 
 You are an enterprise database administrator. The database is in the form of an ArrayList. There are enterprises in the database: "OOO Phoenix", "OAO Metsbyt", "KP Ivanko", "OAO Shawerma", "OAO Furniture" (come up with 5 more pieces). Information came, I "OAO Shawerma" changed its name and is now called "OAO Pyrojky". You need to change the name in the database and output new database in the log.
 
